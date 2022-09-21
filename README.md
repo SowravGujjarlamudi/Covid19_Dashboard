@@ -9,3 +9,5 @@ Data cleaning:
 
 Data Visulization:
 * Tableau was used for creating the dashboard.
+link for dashboard:
+https://public.tableau.com/app/profile/sowrav.gujjarlamudi2207/viz/Covid-19analysis_16637362161030/Dashboard1
